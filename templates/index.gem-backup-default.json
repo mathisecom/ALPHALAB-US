@@ -1,0 +1,582 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "image_a7WGj8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BANNER_PC_17.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/BANNER_MOBILE_55.jpg",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "shopify:\/\/products\/alphalab-infusion",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_a7WGj8"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "numbers",
+        "transition_type": "fade_with_text",
+        "autoplay": true,
+        "cycle_speed": 6,
+        "background": "#f2f2f2",
+        "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
+      }
+    },
+    "multi_column_9eBj4g": {
+      "type": "multi-column",
+      "blocks": {
+        "item_BdNETk": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Titre_38.jpg",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_aVXQxM": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Titre_37.webp",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_rqG3tF": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Titre_39.webp",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Pm669W": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_-_2025-03-20T161232.693.webp",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_BdNETk",
+        "item_aVXQxM",
+        "item_rqG3tF",
+        "item_Pm669W"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "Over 6,000 Men Conquered by AlphaLAB",
+        "title": "The Most Impressive Transformations from Our Customers",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "press_kkMjbk": {
+      "type": "press",
+      "blocks": {
+        "quote_33dPFk": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "David R.",
+            "content": "Write some content about what they says about your store.",
+            "show_rating": true,
+            "rating": 4
+          }
+        },
+        "quote_mmnwGg": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "James A.",
+            "content": "Write some content about what they says about your store.",
+            "show_rating": true,
+            "rating": 4
+          }
+        },
+        "quote_Pidq8r": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "Ethan P.",
+            "content": "Write some content about what they says about your store.",
+            "show_rating": true,
+            "rating": 4
+          }
+        }
+      },
+      "block_order": [
+        "quote_33dPFk",
+        "quote_mmnwGg",
+        "quote_Pidq8r"
+      ],
+      "name": "Press",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "scrolling_text_aY866B": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "The Fast Solution for Hair Loss.",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "#1b2c31",
+        "background_gradient": "",
+        "text_color": "#ffffff",
+        "text_gradient": ""
+      }
+    },
+    "media_with_text_zeQcEU": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_9BrAMq": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Titre_91.jpg",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Regain thick, healthy, and vibrant hair",
+            "content": "<p><strong>Don’t let hair loss steal your confidence.<\/strong><\/p><p>Thanks to Micro-Infusion technology, ALPHALAB™ targets the root of the problem by neutralizing DHT and stimulating natural regrowth.<\/p><p><strong>Result: <\/strong>thicker, stronger, and visibly younger-looking hair in just a few weeks.<\/p>",
+            "link_text": "DISCOVER",
+            "link_url": "shopify:\/\/products\/alphalab-infusion",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1b2c31",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_9BrAMq"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": true,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
+    },
+    "multi_column_hzHXDp": {
+      "type": "multi-column",
+      "blocks": {
+        "item_hTfKwW": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Titre_50.webp",
+            "column_size": "4",
+            "title": "Eclipta Prostrata Extract",
+            "heading_tag": "h4",
+            "content": "<p>Stimulates follicle regeneration and prolongs the hair growth cycle, even outperforming Minoxidil.<\/p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_zqi4ap": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Titre_51.webp",
+            "column_size": "4",
+            "title": "Panax Ginseng",
+            "heading_tag": "h4",
+            "content": "<p>Eliminates DHT to promote the growth of healthy hair.<\/p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_6cjfCd": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Titre_52.webp",
+            "column_size": "4",
+            "title": "Peppermint Oil & Ginger Extract",
+            "heading_tag": "h4",
+            "content": "<p>Nourish the scalp and improve circulation for stronger, thicker hair.<\/p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_3D7bQR": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Titre_53.webp",
+            "column_size": "4",
+            "title": "Rosemary Leaf Extract",
+            "heading_tag": "h4",
+            "content": "<p>A natural alternative to Minoxidil, effective against androgenetic alopecia.<\/p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_hTfKwW",
+        "item_zqi4ap",
+        "item_6cjfCd",
+        "item_3D7bQR"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "Formulated with High-Quality Ingredients",
+        "title": "Active Ingredients",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "media_with_text_JBcihk": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_QNgN9w": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/gempages_586978430721983033-1e43dd67-3f67-47ca-bec1-2d0bc8c31f0c.webp",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Recommended by Experts",
+            "content": "<p>Hair care professionals trust AlphaLAB™ for its clinically proven effectiveness.<\/p>",
+            "link_text": "DISCOVER",
+            "link_url": "shopify:\/\/products\/alphalab-infusion",
+            "background": "#1b2c31",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#ffffff",
+            "button_text_color": "#1b2c31"
+          }
+        }
+      },
+      "block_order": [
+        "image_QNgN9w"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
+    },
+    "rich_text_hXVkCA": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_PBHeDT": {
+          "type": "subheading",
+          "settings": {
+            "text": "They Testify to Its Effectiveness"
+          }
+        },
+        "heading_hBqHhM": {
+          "type": "heading",
+          "settings": {
+            "text": "Over 6,000 Men Convinced",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_PBHeDT",
+        "heading_hBqHhM"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_link_blocks_GDdzUY": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_46pFFE": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Titre_90_copie.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_Rfi8JL": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Titre_92.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_rQmBhH": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Titre_90_copie_2.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_3mCcTa": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Titre_91_3d148101-b2c7-4050-a260-5c10568d3397.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_qzNDcK": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Titre_93.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_tAyzRa": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Titre_90_copie_5.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_46pFFE",
+        "item_Rfi8JL",
+        "item_rQmBhH",
+        "item_3mCcTa",
+        "item_qzNDcK",
+        "item_tAyzRa"
+      ],
+      "name": "Image link blocks",
+      "settings": {
+        "full_width": false,
+        "block_size": "medium",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "testimonials_EnWTWp": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_UrnYNM": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "John S.",
+            "title": "Highly recommend this treatment",
+            "content": "<p>My fine, fragile hair has transformed into thick, healthy hair. It’s the first time in years that I feel confident with my hair.<\/p>"
+          }
+        },
+        "testimonial_YyW6F6": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "David Reynolds",
+            "title": "I’m amazed!",
+            "content": "<p>I noticed a real difference from the first month. My hair falls out much less and grows faster—I’m really impressed!<\/p>"
+          }
+        },
+        "testimonial_w6T7Xh": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "James Anderson",
+            "title": "Finally hair full of life!",
+            "content": "<p>After only 6 weeks, my hair is much thicker and stronger. I finally have hair full of vitality!<\/p>"
+          }
+        },
+        "testimonial_F6CXY9": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Ryan Mitchell",
+            "title": "A change I no longer expected",
+            "content": "<p>My thinning areas are gradually filling in, and my hair has regained shine and vitality. I never expected such results.<\/p>"
+          }
+        },
+        "testimonial_MiDzAB": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Ethan P.",
+            "title": "The results are incredible!",
+            "content": "<p>My hair is stronger, denser, and visibly younger. I highly recommend this treatment without hesitation.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_UrnYNM",
+        "testimonial_YyW6F6",
+        "testimonial_w6T7Xh",
+        "testimonial_F6CXY9",
+        "testimonial_MiDzAB"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": false,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "#f2f8f9",
+        "testimonial_card_text_color": "#1b2c31"
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "multi_column_9eBj4g",
+    "press_kkMjbk",
+    "scrolling_text_aY866B",
+    "media_with_text_zeQcEU",
+    "multi_column_hzHXDp",
+    "media_with_text_JBcihk",
+    "rich_text_hXVkCA",
+    "image_link_blocks_GDdzUY",
+    "testimonials_EnWTWp"
+  ]
+}
