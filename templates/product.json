@@ -621,6 +621,158 @@
         "alternate_media_position": false,
         "spacing": "none"
       }
+    },
+    "image_link_blocks_fQGnUj": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_pqbKLc": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Titre_90_copie_076f9d8d-b4cb-45dd-b17f-704913a209c3.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_Rqcqty": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Titre_91_f70ad014-e3b7-4ebb-b460-80847446d483.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_mBxfAq": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Titre_92_b2a6c369-3344-46eb-855f-1be6549362a1.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_CEirki": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Titre_93_0afa99f1-0756-4112-88e4-1c24cd0536aa.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_D6N4hr": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Titre_90_copie_2.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_pqbKLc",
+        "item_Rqcqty",
+        "item_mBxfAq",
+        "item_CEirki",
+        "item_D6N4hr"
+      ],
+      "name": "Image link blocks",
+      "settings": {
+        "full_width": false,
+        "block_size": "medium",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "testimonials_7LyyRg": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_pU7d3t": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "John S.",
+            "title": "Testimonial 1",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_8zRawR": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Mary U.",
+            "title": "Testimonial 2",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_J4KQmQ": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joshua A.",
+            "title": "Testimonial 3",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_pU7d3t",
+        "testimonial_8zRawR",
+        "testimonial_J4KQmQ"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": false,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "#f2f8f9",
+        "testimonial_card_text_color": "#1b2c31"
+      }
     }
   },
   "order": [
@@ -634,6 +786,8 @@
     "media_with_text_AQBMHi",
     "multi_column_yi3Rxe",
     "media_with_text_xmPiMJ",
-    "media_with_text_zctXWH"
+    "media_with_text_zctXWH",
+    "image_link_blocks_fQGnUj",
+    "testimonials_7LyyRg"
   ]
 }
