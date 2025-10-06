@@ -159,12 +159,23 @@
             "show_rating": true,
             "rating": 4
           }
+        },
+        "quote_qhWzTr": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "Dylan J.",
+            "content": "My hair volume gradually returned. Today, my hair looks thicker, shinier, and I feel rejuvenated.",
+            "show_rating": true,
+            "rating": 4
+          }
         }
       },
       "block_order": [
         "quote_33dPFk",
         "quote_mmnwGg",
-        "quote_Pidq8r"
+        "quote_Pidq8r",
+        "quote_qhWzTr"
       ],
       "name": "Press",
       "settings": {
