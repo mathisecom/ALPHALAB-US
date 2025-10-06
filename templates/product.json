@@ -362,6 +362,81 @@
         "text_color": "#ffffff",
         "text_gradient": ""
       }
+    },
+    "text_with_icons_qR7myc": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_XikVCB": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 40,
+            "icon_width": 40,
+            "icon_background_type": "circle",
+            "icon_background": "#f2f8f9",
+            "icon_color": "",
+            "title": "Free shipping",
+            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
+          }
+        },
+        "item_UbPdFF": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 40,
+            "icon_width": 40,
+            "icon_background_type": "circle",
+            "icon_background": "#f2f8f9",
+            "icon_color": "",
+            "title": "Customer service",
+            "content": "<p>We are available from monday to friday to answer your questions.</p>"
+          }
+        },
+        "item_J8kzrx": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 40,
+            "icon_width": 40,
+            "icon_background_type": "circle",
+            "icon_background": "#f2f8f9",
+            "icon_color": "",
+            "title": "Secure payment",
+            "content": "<p>Your payment information is processed securely.</p>"
+          }
+        },
+        "item_LadJPC": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 40,
+            "icon_width": 40,
+            "icon_background_type": "circle",
+            "icon_background": "#f2f8f9",
+            "icon_color": "",
+            "title": "Secure payment",
+            "content": "<p>Your payment information is processed securely.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_XikVCB",
+        "item_UbPdFF",
+        "item_J8kzrx",
+        "item_LadJPC"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "Why Choose AlphaLAB?",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -370,6 +445,7 @@
     "press_DMGXkq",
     "media_with_text_pqEWWf",
     "multi_column_UithKM",
-    "scrolling_text_jfnRAr"
+    "scrolling_text_jfnRAr",
+    "text_with_icons_qR7myc"
   ]
 }
