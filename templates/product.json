@@ -339,9 +339,25 @@
         "subheading": "A Simple 3-Step Application",
         "title": "How Does It Work?",
         "content": "",
-        "background": "",
+        "background": "#f2f8f9",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "scrolling_text_jfnRAr": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "The Fast Solution for Hair Loss.",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 7,
+        "background": "#1b2c31",
+        "background_gradient": "",
+        "text_color": "#ffffff",
+        "text_gradient": ""
       }
     }
   },
@@ -350,6 +366,7 @@
     "multi_column_EDTCYQ",
     "press_DMGXkq",
     "media_with_text_pqEWWf",
-    "multi_column_UithKM"
+    "multi_column_UithKM",
+    "scrolling_text_jfnRAr"
   ]
 }
