@@ -480,7 +480,21 @@
         "item_6Q96hd": {
           "type": "item",
           "settings": {
-            "column_size": "3",
+            "image": "shopify://shop_images/Titre_50.webp",
+            "column_size": "4",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Ty6LFX": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Titre_51.webp",
+            "column_size": "4",
             "title": "Column title",
             "heading_tag": "h4",
             "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
@@ -492,7 +506,8 @@
         "item_AV9EHQ": {
           "type": "item",
           "settings": {
-            "column_size": "3",
+            "image": "shopify://shop_images/Titre_52.webp",
+            "column_size": "4",
             "title": "Column title",
             "heading_tag": "h4",
             "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
@@ -504,7 +519,8 @@
         "item_g8mBRA": {
           "type": "item",
           "settings": {
-            "column_size": "3",
+            "image": "shopify://shop_images/Titre_53.webp",
+            "column_size": "4",
             "title": "Column title",
             "heading_tag": "h4",
             "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
@@ -516,6 +532,7 @@
       },
       "block_order": [
         "item_6Q96hd",
+        "item_Ty6LFX",
         "item_AV9EHQ",
         "item_g8mBRA"
       ],
