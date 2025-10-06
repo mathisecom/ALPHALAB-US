@@ -437,6 +437,42 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "media_with_text_AQBMHi": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_ePjp8B": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ezgif.com-optimize_55.webp",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Maximum Absorption, Visible Results",
+            "content": "<p>Unlike regular shampoos and serums, <strong>AlphaLAB™</strong> doesn’t just sit on the surface. Its micro-channel system boosts absorption by <strong>up to 300%,</strong> delivering active ingredients directly into the heart of your follicles.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#f2f8f9",
+            "background_gradient": "",
+            "text_color": "#1b2c31",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_ePjp8B"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
     }
   },
   "order": [
@@ -446,6 +482,7 @@
     "media_with_text_pqEWWf",
     "multi_column_UithKM",
     "scrolling_text_jfnRAr",
-    "text_with_icons_qR7myc"
+    "text_with_icons_qR7myc",
+    "media_with_text_AQBMHi"
   ]
 }
