@@ -88,15 +88,15 @@
           "settings": {
             "menu": "footer",
             "show_menu_title": true,
-            "menu_title": ""
+            "menu_title": "Legal Information"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
-            "enable_follow_on_shop": true
+            "title": "Customer Service",
+            "content": "<p><strong>Email:</strong> hello@getalphalab.com</p><p><strong>Hours:</strong></p><ul><li>Monday to Friday: 9 AM – 12 PM & 2 PM – 6 PM<br/></li><li>Saturday & Sunday: 10 AM – 12 PM</li></ul>",
+            "enable_follow_on_shop": false
           }
         }
       },
