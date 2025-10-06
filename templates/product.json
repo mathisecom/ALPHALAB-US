@@ -865,29 +865,61 @@
         "item_TL8hr3": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "When will I start to see results?",
+            "content": "<p>Many users notice a significant improvement in hair texture and growth after 3–5 weeks of regular use. Results may vary depending on the individual.</p>"
           }
         },
         "item_Ax6Ha9": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Do the micro-needles leave marks?",
+            "content": "<p>No, the product does not leave marks or redness. The needles are ultra-fine (0.5 mm), designed to be gentle and painless while ensuring effective serum delivery to the scalp.</p>"
           }
         },
         "item_ciqQP8": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "How often should I use it?",
+            "content": "<p>For best results, use once per week. This allows the roots time to respond and regenerate between sessions. Our highly concentrated formula, combined with the micro-infusion system, delivers ingredients directly to the roots — where real hair regrowth occurs.</p>"
+          }
+        },
+        "item_eVwVfh": {
+          "type": "item",
+          "settings": {
+            "title": "Will I lose my results if I stop using it?",
+            "content": "<p>Once DHT levels are reduced, the scalp detoxified, and new hair grown, it can take several months or even years for DHT to accumulate again.</p>"
+          }
+        },
+        "item_xVF4FE": {
+          "type": "item",
+          "settings": {
+            "title": "Can you tell me more about the application process?",
+            "content": "<p>Application is quick: less than a minute. Simply apply the product to the targeted areas and let it absorb.</p>"
+          }
+        },
+        "item_WfzhpN": {
+          "type": "item",
+          "settings": {
+            "title": "Is it safe to use?",
+            "content": "<p>Totally painless, with no marks or redness. The ultra-fine 0.5 mm needles ensure safe and gentle use.</p>"
+          }
+        },
+        "item_dKUbrt": {
+          "type": "item",
+          "settings": {
+            "title": "Is it suitable for all hair types?",
+            "content": "<p>Yes, the AlphaInfusion system works on all hair types and textures.</p>"
           }
         }
       },
       "block_order": [
         "item_TL8hr3",
         "item_Ax6Ha9",
-        "item_ciqQP8"
+        "item_ciqQP8",
+        "item_eVwVfh",
+        "item_xVF4FE",
+        "item_WfzhpN",
+        "item_dKUbrt"
       ],
       "name": "FAQ",
       "settings": {
