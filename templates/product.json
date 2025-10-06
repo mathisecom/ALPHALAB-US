@@ -100,31 +100,85 @@
         "input_text_color": ""
       }
     },
-    "related-products": {
-      "type": "related-products",
+    "multi_column_EDTCYQ": {
+      "type": "multi-column",
+      "blocks": {
+        "item_weGDDr": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Titre_38.jpg",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_7XgCHp": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Titre_37.webp",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_BrAy4C": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Titre_39.webp",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_kYUQtN": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Untitled_design_-_2025-03-20T161232.693.webp",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_weGDDr",
+        "item_7XgCHp",
+        "item_BrAy4C",
+        "item_kYUQtN"
+      ],
+      "name": "Multi-column",
       "settings": {
-        "recommendations_count": 6,
-        "products": [],
         "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": false,
-        "products_per_row_mobile": "1",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "You may also like",
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "About",
+        "title": "Featured content",
         "content": "",
         "background": "",
         "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
+        "text_color": ""
       }
     }
   },
   "order": [
     "main",
-    "related-products"
+    "multi_column_EDTCYQ"
   ]
 }
