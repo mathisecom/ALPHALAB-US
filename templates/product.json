@@ -756,9 +756,9 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "John S.",
-            "title": "Testimonial 1",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "author": "Michael Thompson",
+            "title": "Highly recommended!",
+            "content": "<p>My thin, fragile hair has transformed into thick, healthy hair. It’s the first time in years I feel confident with my hair.</p>"
           }
         },
         "testimonial_8zRawR": {
@@ -767,9 +767,9 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Mary U.",
-            "title": "Testimonial 2",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "author": "David Reynolds",
+            "title": "Blown away!",
+            "content": "<p>I noticed a real difference from the first month. My hair is growing faster—I’m amazed!</p>"
           }
         },
         "testimonial_J4KQmQ": {
@@ -778,16 +778,40 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "Joshua A.",
-            "title": "Testimonial 3",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "author": "James Anderson",
+            "title": "Finally, full-of-life hair!",
+            "content": "<p>After just 6 weeks, my hair is much thicker and stronger. I finally have hair full of life again!</p>"
+          }
+        },
+        "testimonial_9mckjX": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Ryan Mitchell",
+            "title": "I didn’t expect such a change.",
+            "content": "<p>I didn’t think I’d see such a transformation. My thinning areas are gradually filling in, and my hair has regained shine and vitality.</p>"
+          }
+        },
+        "testimonial_VwYaax": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Ethan Parker",
+            "title": "The results are incredible!",
+            "content": "<p>The results are incredible! My hair is stronger, denser, and visibly younger. I highly recommend it without hesitation.</p>"
           }
         }
       },
       "block_order": [
         "testimonial_pU7d3t",
         "testimonial_8zRawR",
-        "testimonial_J4KQmQ"
+        "testimonial_J4KQmQ",
+        "testimonial_9mckjX",
+        "testimonial_VwYaax"
       ],
       "name": "Testimonials",
       "settings": {
