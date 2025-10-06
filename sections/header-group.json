@@ -17,13 +17,21 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "Free Shipping",
+            "url": ""
+          }
+        },
+        "message_gBJDH7": {
+          "type": "message",
+          "settings": {
+            "text": "100% Secure Payment",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_gBJDH7"
       ],
       "settings": {
         "enable_sticky": false,
