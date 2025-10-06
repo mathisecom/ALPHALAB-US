@@ -36,9 +36,11 @@
             "liquid": "<div class=\"product-info__block-item\" data-block-id=\"liquid_yFeQgp\" data-block-type=\"liquid\">\n  <div class=\"product-info__liquid\">\n    <div class=\"main-product__block main-product__block-custom_liquid\">\n      <div class=\"m-product-text\">\n        <div id=\"productBullets\" style=\"display: flex; flex-wrap: wrap;\">\n          \n          <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; margin-right: 15px; margin-bottom: 10px;\">\n            <svg class=\"productBulletsItemCheck\" xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"#2D4147\" style=\"margin-right: 8px;\">\n              <path d=\"M20.285 6.709l-11.025 11.025-5.545-5.545 1.414-1.414 4.131 4.131 9.611-9.611z\"></path>\n            </svg>\n            <div class=\"productBulletsItemText body\">Suitable for all hair types</div>\n          </div>\n          \n          <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; margin-right: 15px; margin-bottom: 10px;\">\n            <svg class=\"productBulletsItemCheck\" xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"#2D4147\" style=\"margin-right: 8px;\">\n              <path d=\"M20.285 6.709l-11.025 11.025-5.545-5.545 1.414-1.414 4.131 4.131 9.611-9.611z\"></path>\n            </svg>\n            <div class=\"productBulletsItemText body\">Quick, easy, and painless</div>\n          </div>\n          \n          <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; margin-right: 15px; margin-bottom: 10px;\">\n            <svg class=\"productBulletsItemCheck\" xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"#2D4147\" style=\"margin-right: 8px;\">\n              <path d=\"M20.285 6.709l-11.025 11.025-5.545-5.545 1.414-1.414 4.131 4.131 9.611-9.611z\"></path>\n            </svg>\n            <div class=\"productBulletsItemText body\">No side effects or surgery</div>\n          </div>\n          \n          <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; margin-right: 15px; margin-bottom: 10px;\">\n            <svg class=\"productBulletsItemCheck\" xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"#2D4147\" style=\"margin-right: 8px;\">\n              <path d=\"M20.285 6.709l-11.025 11.025-5.545-5.545 1.414-1.414 4.131 4.131 9.611-9.611z\"></path>\n            </svg>\n            <div class=\"productBulletsItemText body\">Thicker and denser hair</div>\n          </div>\n          \n          <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; margin-right: 15px; margin-bottom: 10px;\">\n            <svg class=\"productBulletsItemCheck\" xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"#2D4147\" style=\"margin-right: 8px;\">\n              <path d=\"M20.285 6.709l-11.025 11.025-5.545-5.545 1.414-1.414 4.131 4.131 9.611-9.611z\"></path>\n            </svg>\n            <div class=\"productBulletsItemText body\">90-Day Money-Back Guarantee</div>\n          </div>\n          \n        </div>\n      </div>\n    </div>\n  </div>\n</div>"
           }
         },
-        "badges": {
-          "type": "badges",
-          "settings": {}
+        "liquid_pXirtC": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div data-rapi-id=\"rapi_6407a1855ecabc\"></div>"
+          }
         },
         "buy_buttons": {
           "type": "buy_buttons",
@@ -105,7 +107,7 @@
         "title",
         "liquid_Pm9CkG",
         "liquid_dnGHqk",
-        "badges",
+        "liquid_pXirtC",
         "buy_buttons",
         "liquid_3ieyYN",
         "liquid_8JKnyL",
