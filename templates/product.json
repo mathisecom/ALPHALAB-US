@@ -15,13 +15,19 @@
         "liquid_xVRQ7C": {
           "type": "liquid",
           "settings": {
-            "liquid": ""
+            "liquid": "<div class=\"product-info__block-item\" data-block-id=\"liquid_Bij9WM\" data-block-type=\"liquid\">\n  <div class=\"product-info__liquid\">\n    <div class=\"product-info__block-item\" data-block-id=\"liquid_7xXm48\" data-block-type=\"liquid\">\n      <div class=\"product-info__liquid\">\n        <div class=\"main-product__block main-product__block-custom_liquid\">\n          <div class=\"m-product-text\">\n            <style>\n              .badges-container {\n                display: flex;\n                gap: 6px; /* Space between badges */\n                align-items: center;\n                margin-bottom: 20px; /* Add space below */\n              }\n\n              .badge {\n                display: inline-block;\n                padding: 4px 10px;\n                font-size: 12px;\n                font-weight: bold;\n                color: white;\n                background: #2d4147; /* New color */\n                border-radius: 15px;\n                text-transform: uppercase;\n                white-space: nowrap;\n              }\n            </style>\n\n            <div class=\"badges-container\">\n              <div class=\"badge\">BEST SELLER</div>\n              <div class=\"badge\">AUTUMN OFFER: -50%</div>\n            </div>\n          </div>\n        </div>\n      </div>\n    </div>\n  </div>\n</div>"
           }
         },
         "title": {
           "type": "title",
           "settings": {
             "heading_tag": "h2"
+          }
+        },
+        "liquid_Pm9CkG": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-info__block-item\" data-block-id=\"liquid_Dk6a4W\" data-block-type=\"liquid\">\n  <div class=\"product-info__liquid\">\n    <div class=\"product-info__block-item\" data-block-id=\"liquid_Rqct6c\" data-block-type=\"liquid\">\n      <div class=\"product-info__liquid\">\n        <div class=\"main-product__block main-product__block-custom_liquid\" style=\"padding-top: 0;\">\n          <div class=\"m-product-text\">\n            <div class=\"product-info__liquid\">\n              <a class=\"image-size\" style=\"display: flex; align-items: center; gap: 8px;\">\n                <img src=\"https://cdn.shopify.com/s/files/1/0776/3751/7627/files/avis.png?v=1687213619\" alt=\"Stars\" width=\"63\" height=\"13\">\n                <span class=\"text-size\">Rated <b>4.8/5</b> based on 6,380 reviews</span>\n              </a>\n            </div>\n          </div>\n        </div>\n      </div>\n    </div>\n  </div>\n</div>"
           }
         },
         "badges": {
@@ -81,6 +87,7 @@
       "block_order": [
         "liquid_xVRQ7C",
         "title",
+        "liquid_Pm9CkG",
         "badges",
         "buy_buttons",
         "liquid_3ieyYN",
