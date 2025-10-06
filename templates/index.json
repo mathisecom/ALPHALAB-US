@@ -640,35 +640,36 @@
         "item_XBAcgX": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
+            "title": "Is it free of chemicals?",
             "content": "<p>Yes, it is formulated only with natural, high-quality ingredients, without synthetic chemicals.</p>"
           }
         },
         "item_xzqEBt": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
+            "title": "Is it painful?",
             "content": "<p>No, the sensation feels like a gentle tap of a fingernail on the skin — completely painless.</p>"
           }
         },
         "item_irQb4A": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
+            "title": "I’ve tried many products without success. What makes yours different?",
             "content": "<p>Most products fail because they only deposit ingredients on the scalp surface, where they don’t act. Real regrowth requires delivering the formula deep to the roots, where hair loss starts.</p>"
           }
         },
         "item_TzURxk": {
           "type": "item",
+          "disabled": true,
           "settings": {
-            "title": "Any question?",
+            "title": "What is the needle size?",
             "content": "<p>Our micro-infusion technology ensures maximum absorption, while a powerful blend of licorice root, black sesame, and ginger extracts blocks DHT, detoxifies the scalp, and reactivates dormant follicles. That’s why our product works where others fail.</p>"
           }
         },
         "item_VjR4ht": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
+            "title": "What is the needle size?",
             "content": "<p>The ultra-fine needles of the AlphaInfuse system measure 0.5 mm. They are designed to be gentle and painless while ensuring effective serum delivery to the scalp.</p>"
           }
         },
