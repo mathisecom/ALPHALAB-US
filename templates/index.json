@@ -210,8 +210,8 @@
             "subheading": "",
             "title": "Regain thick, healthy, and vibrant hair",
             "content": "<p><strong>Don’t let hair loss steal your confidence.</strong></p><p>Thanks to Micro-Infusion technology, ALPHALAB™ targets the root of the problem by neutralizing DHT and stimulating natural regrowth.</p><p><strong>Result: </strong>thicker, stronger, and visibly younger-looking hair in just a few weeks.</p>",
-            "link_text": "",
-            "link_url": "",
+            "link_text": "DISCOVER",
+            "link_url": "shopify://products/alphalab-infusion",
             "background": "#ffffff",
             "background_gradient": "",
             "text_color": "#1b2c31",
@@ -322,14 +322,14 @@
             "subheading": "",
             "title": "Recommended by Experts",
             "content": "<p>Hair care professionals trust AlphaLAB™ for its clinically proven effectiveness.</p>",
-            "link_text": "",
-            "link_url": "",
+            "link_text": "DISCOVER",
+            "link_url": "shopify://products/alphalab-infusion",
             "background": "#1b2c31",
             "background_gradient": "",
             "text_color": "#ffffff",
             "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
+            "button_background": "#ffffff",
+            "button_text_color": "#1b2c31"
           }
         }
       },
