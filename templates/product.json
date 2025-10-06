@@ -74,7 +74,7 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Title",
+            "title": "Shipping Information",
             "content": "<p>Order Today, Shipped Tomorrow. Delivery in 5–7 Business Days with Tracking.</p>",
             "page": ""
           }
@@ -84,7 +84,7 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Title",
+            "title": "How to Use?",
             "content": "<p>Share some content to your customers about your products.</p>",
             "page": ""
           }
