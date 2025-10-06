@@ -576,6 +576,59 @@
         "testimonial_card_background": "#f2f8f9",
         "testimonial_card_text_color": "#1b2c31"
       }
+    },
+    "faq_erAwk6": {
+      "type": "faq",
+      "blocks": {
+        "item_eF6QxV": {
+          "type": "item",
+          "settings": {
+            "title": "Do you ship overseas?",
+            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+          }
+        },
+        "item_zY3XrH": {
+          "type": "item",
+          "settings": {
+            "title": "How long will it take to get my orders?",
+            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+          }
+        },
+        "item_UViqpP": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_eF6QxV",
+        "item_zY3XrH",
+        "item_UViqpP"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
@@ -588,6 +641,7 @@
     "media_with_text_JBcihk",
     "rich_text_hXVkCA",
     "image_link_blocks_GDdzUY",
-    "testimonials_EnWTWp"
+    "testimonials_EnWTWp",
+    "faq_erAwk6"
   ]
 }
