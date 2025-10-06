@@ -88,6 +88,16 @@
             "content": "<p>Share some content to your customers about your products.</p>",
             "page": ""
           }
+        },
+        "collapsible_text_jLF4LN": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Title",
+            "content": "<p><strong>Eclipta Prostrata Extract</strong> – This powerful plant has been shown in studies to outperform Minoxidil by rapidly stimulating follicle regeneration and extending the hair growth cycle.</p><p><strong>Panax Ginseng</strong> – A clinically proven growth factor that eliminates DHT, paving the way for healthy, new hair growth.</p><p><strong>Peppermint Oil & Ginger Root Extract</strong> – Rich in vitamins and antioxidants, these ingredients nourish the scalp, improve circulation, and create the ideal environment for strong, thick hair growth.</p><p><strong>Rosemary Leaf Extract</strong> – A natural alternative to Minoxidil that promotes hair regrowth, particularly effective against androgenetic alopecia.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -101,7 +111,8 @@
         "liquid_8JKnyL",
         "liquid_fakexe",
         "collapsible_text_GrDakF",
-        "collapsible_text_LAHrpR"
+        "collapsible_text_LAHrpR",
+        "collapsible_text_jLF4LN"
       ],
       "settings": {
         "full_width": true,
