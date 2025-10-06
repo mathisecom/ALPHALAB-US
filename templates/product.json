@@ -556,6 +556,7 @@
         "image_hN7wqL": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Titre_90_copie3.jpg",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -563,7 +564,7 @@
             "icon_width": 48,
             "subheading": "",
             "title": "Fast, Lasting Results, Effortlessly",
-            "content": "<p>With AlphaLAB™, no complicated routines are needed: just one minute of application per day. In 8 to 10 weeks, thinning areas are visibly fuller, giving you a younger, more confident appearance.</p>",
+            "content": "<p>With <strong>AlphaLAB™</strong>, no complicated routines are needed: just one minute of application per day. In <strong>8 to 10 weeks</strong>, thinning areas are visibly fuller, giving you a younger, more confident appearance.</p>",
             "link_text": "",
             "link_url": "",
             "background": "#ffffff",
@@ -580,7 +581,7 @@
       ],
       "name": "Media with text",
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "alternate_media_position": false,
         "spacing": "none"
       }
