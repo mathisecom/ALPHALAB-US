@@ -342,6 +342,112 @@
         "alternate_media_position": false,
         "spacing": "none"
       }
+    },
+    "image_link_blocks_GDdzUY": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_46pFFE": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Titre_90_copie.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_Rfi8JL": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Titre_92.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_rQmBhH": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Titre_90_copie_2.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_3mCcTa": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Titre_91_3d148101-b2c7-4050-a260-5c10568d3397.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_qzNDcK": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Titre_93.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_tAyzRa": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Titre_90_copie_5.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_46pFFE",
+        "item_Rfi8JL",
+        "item_rQmBhH",
+        "item_3mCcTa",
+        "item_qzNDcK",
+        "item_tAyzRa"
+      ],
+      "name": "Image link blocks",
+      "settings": {
+        "full_width": false,
+        "block_size": "medium",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
     }
   },
   "order": [
@@ -351,6 +457,7 @@
     "scrolling_text_aY866B",
     "media_with_text_zeQcEU",
     "multi_column_hzHXDp",
-    "media_with_text_JBcihk"
+    "media_with_text_JBcihk",
+    "image_link_blocks_GDdzUY"
   ]
 }
