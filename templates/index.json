@@ -583,29 +583,133 @@
         "item_eF6QxV": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
+            "title": "When will I start to see results?",
             "content": "<p>Many users notice a significant improvement in hair texture and growth after 3–5 weeks of regular use. Results may vary depending on the individual.</p>"
           }
         },
         "item_zY3XrH": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Do the micro-needles leave marks?",
+            "content": "<p>No, the product does not leave marks or redness. The needles are ultra-fine (0.5 mm), designed to be gentle and painless while ensuring effective serum delivery to the scalp.</p>"
           }
         },
         "item_UViqpP": {
           "type": "item",
           "settings": {
             "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "content": "<p>For best results, use once per week. This allows the roots time to respond and regenerate between sessions. Our highly concentrated formula, combined with the micro-infusion system, delivers ingredients directly to the roots — where real hair regrowth occurs.</p>"
+          }
+        },
+        "item_CTLhUM": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>Once DHT levels are reduced, the scalp detoxified, and new hair grown, it can take several months or even years for DHT to accumulate again.</p>"
+          }
+        },
+        "item_PYwNpL": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>Application is quick: less than a minute. Simply apply the product to the targeted areas and let it absorb.</p>"
+          }
+        },
+        "item_TCAcap": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>Totally painless, with no marks or redness. The ultra-fine 0.5 mm needles ensure safe and gentle use.</p>"
+          }
+        },
+        "item_yKkJEe": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>Absolutely! The system is non-invasive, painless, and dermatologist-tested for safe at-home use.</p><p></p>"
+          }
+        },
+        "item_FW4TRN": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>Yes, the AlphaInfuse system works on all hair types and textures.</p>"
+          }
+        },
+        "item_XBAcgX": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>Yes, it is formulated only with natural, high-quality ingredients, without synthetic chemicals.</p>"
+          }
+        },
+        "item_xzqEBt": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>No, the sensation feels like a gentle tap of a fingernail on the skin — completely painless.</p>"
+          }
+        },
+        "item_irQb4A": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>Most products fail because they only deposit ingredients on the scalp surface, where they don’t act. Real regrowth requires delivering the formula deep to the roots, where hair loss starts.</p>"
+          }
+        },
+        "item_TzURxk": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>Our micro-infusion technology ensures maximum absorption, while a powerful blend of licorice root, black sesame, and ginger extracts blocks DHT, detoxifies the scalp, and reactivates dormant follicles. That’s why our product works where others fail.</p>"
+          }
+        },
+        "item_VjR4ht": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>The ultra-fine needles of the AlphaInfuse system measure 0.5 mm. They are designed to be gentle and painless while ensuring effective serum delivery to the scalp.</p>"
+          }
+        },
+        "item_EpgkUT": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>Yes, the 24K gold ultra-fine needles provide a painless application, and the formula is free from harsh chemicals, making it safe for sensitive scalps.</p>"
+          }
+        },
+        "item_iYqRbU": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>Yes, it can be used alongside your regular hair care products.</p>"
+          }
+        },
+        "item_dqtdVj": {
+          "type": "item",
+          "settings": {
+            "title": "Ingredients",
+            "content": "<p><strong>Ingredients: </strong>Menthol, Peppermint Oil (Mentha Piperita), Panax Ginseng Root Extract, Anemarrhena Asphodeloides Root Extract, Ginger Root Extract (Zingiber Officinale), Rosemary Oil, Black Sesame Extract, Licorice Root Extract, Angelica Polymorpha Sinensis Root Extract, Citric Acid, Platycladus Orientalis Leaf Extract, Sophora Flavescens Extract, Biota Orientalis Leaf Extract, Polygonum Multiflorum Root Extract, Eclipta Prostrata Extract, Cinchona Pubescens Bark Extract</p>"
           }
         }
       },
       "block_order": [
         "item_eF6QxV",
         "item_zY3XrH",
-        "item_UViqpP"
+        "item_UViqpP",
+        "item_CTLhUM",
+        "item_PYwNpL",
+        "item_TCAcap",
+        "item_yKkJEe",
+        "item_FW4TRN",
+        "item_XBAcgX",
+        "item_xzqEBt",
+        "item_irQb4A",
+        "item_TzURxk",
+        "item_VjR4ht",
+        "item_EpgkUT",
+        "item_iYqRbU",
+        "item_dqtdVj"
       ],
       "name": "FAQ",
       "settings": {
