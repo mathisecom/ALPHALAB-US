@@ -194,12 +194,49 @@
         "text_color": "#ffffff",
         "text_gradient": ""
       }
+    },
+    "media_with_text_zeQcEU": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_9BrAMq": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Titre_91.jpg",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Regain thick, healthy, and vibrant hair",
+            "content": "<p><strong>Don’t let hair loss steal your confidence.</strong></p><p>Thanks to Micro-Infusion technology, ALPHALAB™ targets the root of the problem by neutralizing DHT and stimulating natural regrowth.</p><p><strong>Result: </strong>thicker, stronger, and visibly younger-looking hair in just a few weeks.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1b2c31",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_9BrAMq"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": true,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
     }
   },
   "order": [
     "slideshow",
     "multi_column_9eBj4g",
     "press_kkMjbk",
-    "scrolling_text_aY866B"
+    "scrolling_text_aY866B",
+    "media_with_text_zeQcEU"
   ]
 }
