@@ -215,7 +215,7 @@
           "type": "quote",
           "settings": {
             "logo_width": 100,
-            "author": "",
+            "author": "Michael T.",
             "content": "Write some content about what they says about your store.",
             "show_rating": true,
             "rating": 4
@@ -225,7 +225,7 @@
           "type": "quote",
           "settings": {
             "logo_width": 100,
-            "author": "",
+            "author": "David R.",
             "content": "Write some content about what they says about your store.",
             "show_rating": true,
             "rating": 4
@@ -235,7 +235,7 @@
           "type": "quote",
           "settings": {
             "logo_width": 100,
-            "author": "",
+            "author": "James A.",
             "content": "Write some content about what they says about your store.",
             "show_rating": true,
             "rating": 4
