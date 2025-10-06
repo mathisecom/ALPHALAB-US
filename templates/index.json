@@ -492,8 +492,8 @@
             "show_rating": true,
             "rating": 4,
             "author": "John S.",
-            "title": "Testimonial 1",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "title": "Highly recommend this treatment",
+            "content": "<p>My fine, fragile hair has transformed into thick, healthy hair. It’s the first time in years that I feel confident with my hair.</p>"
           }
         },
         "testimonial_YyW6F6": {
@@ -503,8 +503,8 @@
             "show_rating": true,
             "rating": 5,
             "author": "Mary U.",
-            "title": "Testimonial 2",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "title": "I’m amazed!",
+            "content": "<p>I noticed a real difference from the first month. My hair falls out much less and grows faster—I’m really impressed!</p>"
           }
         },
         "testimonial_w6T7Xh": {
@@ -514,15 +514,39 @@
             "show_rating": true,
             "rating": 4,
             "author": "Joshua A.",
-            "title": "Testimonial 3",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "title": "Finally hair full of life!",
+            "content": "<p>After only 6 weeks, my hair is much thicker and stronger. I finally have hair full of vitality!</p>"
+          }
+        },
+        "testimonial_F6CXY9": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joshua A.",
+            "title": "A change I no longer expected",
+            "content": "<p>My thinning areas are gradually filling in, and my hair has regained shine and vitality. I never expected such results.</p>"
+          }
+        },
+        "testimonial_MiDzAB": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joshua A.",
+            "title": "The results are incredible!",
+            "content": "<p>My hair is stronger, denser, and visibly younger. I highly recommend this treatment without hesitation.</p>"
           }
         }
       },
       "block_order": [
         "testimonial_UrnYNM",
         "testimonial_YyW6F6",
-        "testimonial_w6T7Xh"
+        "testimonial_w6T7Xh",
+        "testimonial_F6CXY9",
+        "testimonial_MiDzAB"
       ],
       "name": "Testimonials",
       "settings": {
