@@ -291,6 +291,7 @@
         "item_8fCCTc": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Titre_15.webp",
             "column_size": "3",
             "title": "Prepare the Scalp",
             "heading_tag": "h4",
@@ -303,6 +304,7 @@
         "item_mJixX9": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Titre_17.webp",
             "column_size": "3",
             "title": "Apply the Serum",
             "heading_tag": "h4",
@@ -315,6 +317,7 @@
         "item_EjQ9yD": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Titre_18.webp",
             "column_size": "3",
             "title": "Let It Work & Repeat",
             "heading_tag": "h4",
