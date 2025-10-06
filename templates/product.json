@@ -216,7 +216,7 @@
           "settings": {
             "logo_width": 100,
             "author": "Michael T.",
-            "content": "Write some content about what they says about your store.",
+            "content": "After 3 months, my hairline has thickened and the thinning areas have become almost invisible. Today, my hair is denser and I feel younger.",
             "show_rating": true,
             "rating": 4
           }
@@ -226,7 +226,7 @@
           "settings": {
             "logo_width": 100,
             "author": "David R.",
-            "content": "Write some content about what they says about your store.",
+            "content": "My thinning temples have noticeably filled in. People around me say I look healthier and more confident.",
             "show_rating": true,
             "rating": 4
           }
@@ -236,7 +236,17 @@
           "settings": {
             "logo_width": 100,
             "author": "James A.",
-            "content": "Write some content about what they says about your store.",
+            "content": "I was skeptical at first, but after 3 months, my hair has truly gained density. I’m no longer embarrassed to style it.",
+            "show_rating": true,
+            "rating": 4
+          }
+        },
+        "quote_xPeAE8": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "Dylan T.",
+            "content": "My hair volume gradually returned. Today, my hair looks thicker, shinier, and I feel rejuvenated.",
             "show_rating": true,
             "rating": 4
           }
@@ -245,7 +255,8 @@
       "block_order": [
         "quote_DDamfM",
         "quote_UbnJ4G",
-        "quote_yE3pdy"
+        "quote_yE3pdy",
+        "quote_xPeAE8"
       ],
       "name": "Press",
       "settings": {
