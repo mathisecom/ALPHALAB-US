@@ -622,6 +622,39 @@
         "spacing": "none"
       }
     },
+    "rich_text_PpHYrL": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_LVUDME": {
+          "type": "subheading",
+          "settings": {
+            "text": "THEY TESTIFY TO ITS EFFECTIVENESS"
+          }
+        },
+        "heading_a9qm8Q": {
+          "type": "heading",
+          "settings": {
+            "text": "Over 6,000 Men Convinced",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_LVUDME",
+        "heading_a9qm8Q"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "image_link_blocks_fQGnUj": {
       "type": "image-link-blocks",
       "blocks": {
@@ -787,6 +820,7 @@
     "multi_column_yi3Rxe",
     "media_with_text_xmPiMJ",
     "media_with_text_zctXWH",
+    "rich_text_PpHYrL",
     "image_link_blocks_fQGnUj",
     "testimonials_7LyyRg"
   ]
